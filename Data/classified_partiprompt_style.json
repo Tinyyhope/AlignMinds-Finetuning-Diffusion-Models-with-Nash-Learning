@@ -1,0 +1,1947 @@
+[
+  {
+    "prompt": "a red block to the left of a blue pyramid",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a portrait of a man wearing sunglasses and a business suit, painting in pop art style",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a plate that has no bananas on it. there is a glass without orange juice next to it.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "two small circles to the left of a red triangle that is on a green rectangle",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a photograph of a bird wearing headphones and speaking into a microphone in a recording studio",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "The large ball crashed right through the table because it was made of styrofoam",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The Millennium Wheel next to the Statue of Liberty. The Sagrada Familia church is also visible.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a white background with a large blue circle and a small green square",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a painting of the mona lisa on a white wall",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photo of a Persian Metal Engraving vase sitting to the left of a bunch of orange flowers.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a drop-top sports car coming around a bend in the road",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tiny football in front of three yellow tennis balls",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Painting of a panic-stricken creature, simultaneously corpselike and reminiscent of a sperm or fetus, whose contours are echoed in the swirling lines of the blood-red sky",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a photograph of the mona lisa drinking coffee as she has her breakfast. her plate has an omelette and croissant.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a bottle of light beer with a lemon slice wedged in the rim",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an invisible man wearing horn-rimmed glasses and a pearl bead necklase while looking at his phone",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a drawing of a series of musical notes wrapped around the Earth",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a grand piano next to the net of a tennis court",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A photograph of a bird made of wheat bread and an egg.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "long shards of a broken mirror reflecting the eyes of a great horned owl",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an old red truck parked by the geyser Old Faithful",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a yellow box to the right of a blue sphere",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a large white yacht tossed about in a stormy sea",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a pair of headphones on a statue of a horse",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Aerial view of downtown Manhattan, but with Millennium Wheel next to the Statue of Liberty. The Great Pyramid is on a sandy island near the buildings.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "an owl with its wings spread out swooping over a tree",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a cute illustration of a horned owl with a graduation cap and diploma",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a man pouring milk into a coffee cup to make a latte with a beatiful design",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "light and happiness throughout and finding its way to every corner of the world, abstract oil painting",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A punk rock platstumppus in a studded leather jacket shouting into a microphone while standing on a stump",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a pair of matching socks with cute cats on them",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a plant growing on the side of a brick wall",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a three quarters view of a man getting into a car",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a whale breaching in front of the Sydney Opera House",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a corgi wearing a red bowtie and a purple party hat",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a white flag with a red circle next to a solid blue flag",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like dogs. All of the dogs are wearing blue turtlenecks.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a large stone pedestal without a statue of a horse on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a kangaroo hopping in the air between two identical large statues of warrior rabbits",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a flag with a drawing of a dinosaur on it",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A wombat sits in a yellow beach chair, while sipping a martini that is on his laptop keyboard. The wombat is wearing a white panama hat and a floral Hawaiian shirt. Out-of-focus palm trees in the background.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a portrait of a statue of anubis with a crown and wearing a yellow t-shirt that has a space shuttle drawn on it",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A glass of red wine tipped over on a couch, with a stain that writes \"OOPS\" on the couch.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A warrior wombat holding a sword and shield in a fighting stance. The wombat stands in front of the Arc de Triomphe on a day shrouded mist with the sun high in the sky.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a cat jumping in the air to catch a bird",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A rabbit checks its watch, and so does a gecko.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a marina with a herd of dolphins playing in it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an abstract painting of three triangles in blue, red and white",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a dutch baroque painting of a horse in a field of flowers",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "G I G G L E painted in thick colorful lettering as graffiti on a faded red brick wall with a splotch of exploding white paint.",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A close-up of two beetles wearing karate uniforms and fighting, jumping over a waterfall.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a man reading a book with a prism on its cover",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a top down view of a horse running in a field",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A map of the United States with a pin on San Francisco",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an inflatable rabbit held up in the air by the geyser Old Faithful",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a wooden post with a yellow '3' painted on top",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the mona lisa wearing a cowboy hat and screaming a punk song into a microphone",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a hot air balloon with a yin-yang symbol, with the moon visible in the daytime sky",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A richly textured oil painting of a young badger delicately sniffing a yellow rose next to a tree trunk. A small waterfall can be seen in the background.",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a woman with long hair next to a luminescent bird",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a wine bottle with a red ribbon wrapped around it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A shiny VW van that has flowers painted on it. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. ink sketch.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a white robot with a red mohawk painted as graffiti on a red brick wall",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a view of the Big Dipper in the night sky",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a photograph of a squirrel holding an arrow above its head and holding a longbow in its left hand",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a rocking chair next to the net of a tennis court",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a comic about a father and a son playing tennis",
+    "style": "anime and cartoon",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The buildings of downtown Manhattan situated at below Mount Everest. The Great Pyramid is in the foreground.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a man with long blonde hair, brown eyes and blue jeans",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a large white yacht in a calm bay on a sunny day",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A red dragon dressed in a tuxedo and playing chess. The chess pieces are fashioned after robots.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a photograph of a blue porsche 356 coming around a bend in the road",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a long chemtrail trailing an airplane in a blue sky",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a room with two chairs and a painting of the Statue of Liberty",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photo of a hamburger fighting a hot dog in a boxing ring. The hot dog is tired and up against the ropes.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a living room with a large Egyptian statue in the corner",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A punk rock platypus in a studded leather jacket shouting into a microphone while standing on a lily pad",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a photograph of a fiddle next to a basketball on a ping pong table",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a blue airplane taxiing on a runway with the sun behind it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photo of the Space Shuttle Endeavor painted yellow and flying over the Earth. The continent of South America is visible.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a pineapple with one beer to its left and two beers on its right",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Two cups of coffee, one with latte art of a map of United States. The other has latte art of a map of Africa.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "An anime illustration of Sydney Opera House sitting next to Eiffel tower, under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blu",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a baby daikon radish in a tutu walking a dog",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a brown trash bin with a green compost bin on its left and a blue recycling bin on its right",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photo of a Japanese Porcelain Imari vase on the ground below a wooden chair.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a black background with a large yellow circle and a small red square",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a corgi’s head depicted as an explosion of a nebula",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "brown white and black white guinea pigs eating parsley handed to them",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a large open book showing text and an illustration of a cat",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a painting of the Mona Lisa with New York City behind her",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a basketball to the left of two soccer balls on a gravel driveway",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Dogs sitting around a poker table with beer bottles and chips. Their hands are holding cards.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "trying to find my way in a big confusing world, abstract oil painting",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photo of llama wearing sunglasses standing on the deck of a spaceship with the Earth in the background.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "beautiful fireworks in the sky with red, white and blue",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a group of skiers are preparing to walk up a sand dune",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Three-quarters front view of a blue 1977 Corvette coming around a curve in a mountain road and looking over a green valley on a cloudy day.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "7 dogs sitting around a poker table, two of which are turning away.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a family of four walking at the beach with waves covering their feet",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A teddy bear wearing a motorcycle helmet and cape is standing in front of Loch Awe with Kilchurn Castle behind him",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Renaissance portrayals of the Virgin Mary, seated in a loggia. Behind her is a hazy and seemingly isolated landscape imagined by the artist and painted using sfumato.",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a white bird in front of a dinosaur standing by some trees",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a teddy bear to the right of a toy car",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a propaganda poster depicting a cat dressed as french emperor napoleon holding a piece of cheese",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A boy holds and a girl paints a piece of wood.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A television made of water that displays an image of a cityscape at night.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a car and a truck on the road next to a traffic light",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a high-quality photograph of an armadillo playing a bagpipe while standing on one leg",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a Saint Bernard standing up with its paws in the air. A young girl is seated on the dog's shoulders.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "the letters P A X forming a very simple outline of an elephant's shape.  the elephant is facing left. vector art, orange logo.",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a statue of Abraham Lincoln wearing an opaque and shiny astronaut's helmet. The statue sits on the moon, with the planet Earth in the sky.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A close-up of two mantis wearing karate uniforms and fighting, jumping over a waterfall.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a portrait of a statue of the Egyptian god Anubis wearing aviator goggles, white t-shirt and leather jacket. The city of Los Angeles is in the background.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "an aerial photo of a sandy island in the ocean",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A black dragon perched on top of a tall Egyptian obelisk and breathing flames at a knight on the ground",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "an airplane flying into a cloud that looks like monster",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a cat patting a crystal ball with the number 7 written on it in black marker",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a dolphin in an astronaut suit on saturn, high-contrast painting",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A portrait photo of a kangaroo wearing an orange hoodie and blue sunglasses standing on the grassin front of the Sydney Opera House holding a sign on the chest that says Welcome Friends!",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A smiling sloth wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. A shiny VW van with a cityscape painted on it and parked on grass.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A rusty spaceship blasts off in the foreground. A city with tall skyscrapers is in the distance, with a mountain and ocean in the background. A dark moon is in the sky. realistic high-contrast anime illustration.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A soft beam of light shines down on an armored granite wombat warrior statue holding a broad sword. The statue stands an ornate pedestal in the cella of a temple. wide-angle lens. anime oil painting.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a boy sitting on the shoulders of a woman who is wearing an elegant dress",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a white towel with a cartoon of a cat on it",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a drawing of a pig face with an eye patch",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A high resolution photo of a chicken working out in a gym.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A map of the United States made out sushi. It is on a table next to a glass of red wine.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A penguin wearing aviator goggles and flying confidently next to a bemused eagle.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a close up of a handpalm with leaves growing from it",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A man sips a latte and a woman a beer.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a brown mouse laughing at a gray cat because a 16 ton weight is about to fall on its head",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A black dog sitting on a wooden chair. A white cat with black ears is standing up with its paws on the chair.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a black and orange yin-yang symbol with tiger's heads instead of circles",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A single beam of light enter the room from the ceiling. The beam of light is illuminating an easel. On the easel there is a Rembrandt painting of a raccoon",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a cat sitting on a box with a drawing of an elephant on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a yellow wall with a large framed oil painting of a car",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a white cat and a tabby cat looking at each other",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A bowl of Pho served with bean sprouts on top",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "vibrant portrait painting of Salvador Dalí with a robotic half face",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a man eating a glazed donut and a woman eating a chocolate cake",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a cat jumping in the air to get onto a table",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a family of bears passing by the geyser Old Faithful",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a bike rack with some bike locks attached to it but no bicycles",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a real flamingo reading a large open book. a big stack of books is piled up next to it. dslr photograph.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "an illustration of a baby daikon radish in a tutu walking a dog",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a child eating a birthday cake near some palm trees",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an orange pickup truck next to a yellow Porsche 911",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a painting of a man standing on a street corner",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "An oil painting of a two-story house lifting off the ground like a rocket.",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A photo of an astronaut riding a horse in the forest. There is a river in front of them with water lilies.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Anime illustration of a kangaroo holding a sign that says \"Starry Night\", in front of the Sydney Opera House sitting next to the Eiffel Tower under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blu",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a painting of black and white with a red flower in the right corner",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "An empty fireplace with a television above it. The TV shows a lion hugging a giraffe.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a yellow sticky note with 'BUY MILK' written on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a large present with a red ribbon to the left of a Christmas tree",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a long wooden bench in front of a brick wall",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Horses pulling a carriage on the moon's surface, with the Statue of Liberty and Great Pyramid in the background. The Planet Earth can be seen in the sky.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a Tyrannosaurus Rex roaring in front of a palm tree",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "view from below of a tall white ladder with just one rung leaning up against a yellow brick wall",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A high resolution photo of a rat working out in a gym.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "an extreme close-up view of a capybara sitting in a field",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "An alien octopus floats through a portal reading a newspaper. DSLR photo.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "The Great Pyramid of Giza situated in front of Mount Everest",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a pickup truck kicking up dust on a back road",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a red box to the right of a green sphere",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "concentric squares fading from yellow on the outside to deep orange on the inside",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a group of cats in a meeting. there is a whiteboard with \"stack more layers\" written on it.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Greek statue of a man comforting a cat. The cat has a big head. The man looks angry.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "The trophy doesn't fit into the brown suitcase because it's too small",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a racoon holding a shiny red apple over its head",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a paranoid android freaking out and jumping into the air because it is surrounded by colorful Easter eggs",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A punk rock frog in a studded leather jacket shouting into a microphone while standing on a stump",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a cream colored labradoodle next to a white cat with black-tipped ears",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a portrait of a statue of a pharaoh wearing steampunk glasses, white t-shirt and leather jacket. dslr photograph.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a group of not more than five meerkats standing with the sun setting behind them",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A high-contrast photo of a panda riding a horse. The panda is wearing a wizard hat and is reading a book. The horse is standing on a street against a gray concrete wall. Colorful flowers and the word \"PEACE\" are painted on the wall. Green grass grows from cracks in the street.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Portrait of a tiger wearing a train conductor's hat and holding a skateboard that has a yin-yang symbol on it. charcoal sketch",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a wooden post in front of a patch of tall grass",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a child in the air while jumping on a trampoline",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a woman with a dog puppet and a cat puppet",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a beat-up truck at the base of the Great Pyramid",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tennis court with a basketball hoop in one corner",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a bottle of beer next to an ashtray with a half-smoked cigarrette",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a poodle wearing a baseball cap holding a dictionary in hand and writing bonez on a chalkboard",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a cream-colored labradoodle wearing glasses and black beret teaching calculus at a blackboard",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "three yellow balls and two red boxes on a table",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a satellite image of a costal french city there is a large park on the west side and a mountain to the north. There is a cloud covering part of the image",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a blue wall with a large framed watercolor painting of a mountain",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a dump truck filled with soccer balls scuba diving in a coral reef.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a book with the words 'Don't Panic!' written on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tennis court that is very wet from lots of rain",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A man gives a woman a laptop and a boy a book.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "trees seen through a car window on a rainy day",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a large blue box with three small yellow boxes on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a portrait of a postal worker who has forgotten their mailbag",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a giant gorilla at the top of the Empire State Building",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a panda bear playing ping pong using a blue paddle against an ostrich using a red paddle",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a gorilla climbing up the side of the Great Pyramid",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a cat licking a large felt ball with a drawing of the Eiffel Tower on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the Sydney Opera House with the Eiffel tower sitting on the right, and Mount Everest rising above",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Portrait of a gecko wearing a train conductor’s hat and holding a flag that has a yin-yang symbol on it. Charcoal.",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a watercolor painting of a snowy owl standing in a grassy field",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tall man stooping down to enter a low red sports car",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Ground view of the Great Pyramids and Sphinx on the moon's surface. The back of an astronaut is in the foreground. The planet Earth looms in the sky.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a glass of orange juice with an orange peel stuck on the rim",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A section of the Great Wall in the mountains. detailed charcoal sketch.",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a black dog jumping up to hug a woman wearing a red sweater",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an old man with a long grey beard and green eyes",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A shiny robot wearing a race car suit and black visor stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. comic book illustration.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A sloth in a go kart on a race track. The sloth is holding a banana in one hand. There is a banana peel on the track in the background.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a view of the Orion constellation in the night sky",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A close-up of two chameleons wearing karate uniforms and fighting, jumping over a waterfall.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a girl with curly black hair jumping off a boulder",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A high resolution photo of a donkey in a clown costume giving a lecture at the front of a lecture hall. The blackboard has mathematical equations on it. There are many students in the lecture hall.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a basketball hoop with a large blue ball stuck in it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "high-contrast image of the word \"WOMBAT\" written with thick colored graffiti letters on a white wall with dramatic splashes of paint",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A shiny VW van with a cityscape painted on it and parked on grass.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The mouse the cat watches is jumping in the air.",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a pen-and-ink crosshatched drawing of a sphere with dark square on it",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A dignified beaver wearing glasses, a vest, and colorful neck tie. He stands next to a tall stack of books in a library.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a circular brown trash bin in front of a brick wall",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a wooden post with a blue '5' painted on top",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a young badger delicately sniffing a yellow rose, richly textured oil painting",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a painting of an ornate treasure chest with a broad sword propped up against it, glowing in a dark cave",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "the door of knowing, a portal brightly opening the way through darkness. abstract anime landscape oil painting.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A portrait of a metal statue of a pharaoh wearing steampunk glasses and a leather jacket over a white t-shirt that has a drawing of a space shuttle on it.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a four-piece band on a stage in front of a small crowd",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A blue Porsche 356 parked in front of a yellow brick wall",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A heavy metal tiger standing on a rooftop while singing and jamming on an electric guitar under a spotlight. anime illustration.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "three quarters view of a rusty old red pickup truck with white doors and a smashed windshield",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a photo of the back of a covered wagon. a polar bear is sticking it's head out of the wagon.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a lavender backpack with a triceratops stuffed animal head on top",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The collision of two black holes in the center of a galaxy.",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the International Space Station flying in front of the moon",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a robot holding a sign with \"Let's PAINT!\" written on it",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a wood cabin with a fire pit in front of it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A train ride in the monsoon rain in Kerala. With a Koala bear wearing a hat looking out of the window. There is a lot of coconut trees out of the window.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A green sign that says \"Very Deep Learning\" and is at the edge of the Grand Canyon.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a chess queen to the right of a chess knight",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a great gray owl with a mouse in its beak",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a cute wooden owl statue holding a large globe of the Earth above its head",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a stone bust next to an egg and an eggplant",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the United States flag next to the flag of Texas",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a white robot, a red robot and a black robot standing together",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "an elf drinking orange juice through a straw of a giant orange next to a squirrel and an owl watching from above",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a river with people swimming in it as a boat goes by",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an elephant using its trunk to blow into a tuba",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a woman using a sledgehammer to smash an ice sculpture of a goose",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a man in a business suit on a ladder that is leaning up against the side of a white house",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The dog chased the cat, which ran up a tree. It waited at the top.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A tourist is looking at a whale using a binocular",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a full pitcher of beer with an elephant's trunk in it",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a professional high quality emoji of a lovestruck cup of boba",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a impressionistic painting of a scholarly badger reading the Rosetta Stone",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a swordfish and a narwhal fencing in an underwater sandy arena. a crap and a lobster are cheering.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a tree reflected in the hood of a blue car",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a woman with tan skin in blue jeans and yellow shirt",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "two beat-up baseballs on either side of a yellow basketball",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A wall in a royal castle. There are two paintings on the wall. The one on the left a detailed oil painting of the royal raccoon king. The one on the right a detailed oil painting of the royal raccoon queen. A cute dog looking at the two paintings, holding a sign saying 'plz conserve'",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a massive robot with a coffee cup head. it is standing in the street with one foot smashing a car.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A photo of a frog reading the newspaper named \"Toaday\" written on it. There is a frog printed on the newspaper too.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a flag with three vertical stripes that are blue, white and red",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a sidewalk next to a wooden post with a blue '5' painted on top",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a white rabbit in blue jogging clothes doubled over in pain while a turtle wearing a red tank top dashes confidently through the finish line",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A robot painted as graffiti on a brick wall. The words \"Fly an airplane\" are written on the wall. A sidewalk is in front of the wall, and grass is growing out of cracks in the concrete.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a flower with large red petals growing on the moon's surface",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a piano with an open song book above the keys",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a politician wearing a soccer jersey and holding a volleyball while giving a speech on a stage",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "overhead view of three people looking down at the street from the top of a tall building",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a bundle of blue and yellow flowers in a vase",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a green pepper to the left of a red pepper",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a woman with long black hair and dark skin in a long white dress",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an oil surrealist painting of a dreamworld on a seashore where clocks and watches appear to be inexplicably limp and melting in the desolate landscape. a table on the left, with a golden watch swarmed by ants. a strange fleshy creature in the center of the painting",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "five green peppers to the right of two red onions",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a dog wearing a baseball cap backwards and writing BONEZ on a chalkboard",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Oil painting of a giant robot made of sushi, holding chopsticks.",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a racoon detective using a microscope while riding in a train",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A rhino beetle this size of a tank grapples a real life passenger airplane on the tarmac",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a family of four posing in front of a house",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a man and a woman standing in the back up an old pickup truck",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A castle made of tortilla chips, in a river made of salsa. There are tiny burritos walking around the castle",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "An aerial view of Ha Long Bay without any boats",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a surrealist dream-like oil painting by salvador dalí of a cat playing checkers",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a photograph of an ostrich wearing a fedora and singing soulfully into a microphone",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a cat looking out of a window at a squirrel on a fence",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A smiling sloth wearing a bowtie and holding a quarterstaff and a big book. A shiny VW van parked on grass.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A gundam stands tall with its sword raised. A city with tall skyscrapers is in the distance, with a mountain and ocean in the background. A dark moon is in the sky. realistic high-contrast anime illustration.",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A close-up photo of a wombat wearing a red backpack and raising both arms in the air. Mount Rushmore is in the background.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "the saying \"BE EXCELLENT TO EACH OTHER\" on a rough wall with a graffiti image of a green alien wearing a tuxedo.",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A table full of food. There is a plate of chicken rice, a bowl of bak chor mee, and a bowl of laksa.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a shoe rack without any pairs of shoes on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "tall buildings seen through a window with rain on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A punk rock squirrel in a studded leather jacket shouting into a microphone while standing on a stump and holding a beer on dark stage.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a grandmother reading a book to her grandson and granddaughter",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tree growing out of the middle of an intersection",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a yellow dump truck filled with soccer balls driving in a coral reef. a blue whale looms in the background.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A robot gives a wombat an orange and a lemur a banana.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a young woman with glasses reading a thick book at a mahogany desk",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A burger patty, with the bottom bun and lettuce and tomatoes. \"COFFEE\" written on it in mustard",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A large city fountain that has milk instead of water. Several cats are leaning into the fountain.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a sticker stuck in the middle of a stop sign",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the flag of the United Kingdom painted in rusty corrugated iron",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A Big Ben clock towering over the city of London",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A high contrast portrait photo of a fluffy hamster wearing an orange beanie and sunglasses holding a sign that says \"Let's PAINT!\"",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a grumpy porcupine handing a check for $10,000 to a smiling peacock",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A DSLR photo of a shiny VW van that has a cityscape painted on it. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Zoomed out view of a giraffe and a zebra in the middle of a field covered with colorful flowers",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an espresso machine that makes coffee from human souls, high-contrast painting",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a pickup truck with a horse on its left and two dogs on its right",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "side view of a brown horse wearing a saddle. the number 55 is stamped in white on its rear flank.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a painting of a white country home with a wrap-around porch",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the words 'KEEP OFF THE GRASS' written on a brick wall",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A plush monkey fording the Charles River on a log while wearing a Boston Red Sox hat with MIT in the background.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a fall landscape with a small cottage next to a lake",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A cat that has black fur bats a red Christmas ornament that has silver sparkles.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The Rosetta Stone lying on the ground, covered in snow.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A photo of a light bulb in outer space traveling the galaxy with a sailing boat inside the light bulb.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A solitary figure shrouded in mists peers up from the cobble stone street at the imposing and dark gothic buildings surrounding it. an old-fashioned lamp shines nearby. oil painting.",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A teddybear on a skateboard in Times Square, doing tricks on a cardboard box ramp.",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a professional photo of a sunset behind the grand canyon",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a black dog sitting between a bush and a pair of green pants standing up with nobody inside them",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a kids' book cover with an illustration of white dog driving a red pickup truck",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a glass of orange juice to the right of a plate with buttered toast on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "square red apples on a tree with circular green leaves",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "The Statue of Liberty with the Manhattan skyline in the background.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a white robot passing a soccer ball to a red robot",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The 1970s logo for a london-area football club called \"The Rumbury Wanderers\"",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Anime illustration of the Great Pyramid sitting next to the Parthenon under a blue night sky of roiling energy, exploding yellow stars, and chromatic blue swirls",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a stack of three red cubes with a blue sphere on the right and two green cones on the left",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "fairy cottage with smoke coming up chimney and a squirrel looking from the window",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a photograph of sand with a bucket, lots of scattered shells but no sandpipers",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a brown trash bin to the left of a blue recycling bin",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tree reflected in the sunroof of a blue car",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a drawing of a pint of beer on a brick wall",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A smiling sloth is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. The sloth is standing on grass a few feet in front of a shiny VW van with flowers painted on it. wide-angle lens from below.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a large yellow triangle above a green square and red rectangle",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a photograph of a knight in shining armor holding a basketball",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "Photograph of a wall along a city street with a watercolor mural of foxes in a jazz band.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a metallic blue sphere to the left of a yellow box made of felt",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a blue pickup truck with a rhinoceros in its flatbed",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a blue cow is standing next to a tree with red leaves and yellow fruit. the cow is standing in a field with white flowers. impressionistic painting",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "black bearded dog with an injured leg wearing a cone",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "The sculpture rolled off the shelf because it wasn't level",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "square blue apples on a tree with circular yellow leaves",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "two violins standing up with their bows on the ground in front of them",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a coloring book page of a horse next to a stream",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A bar of chocolate without a wrapper that has the word \"WRAPPER\" printed on it.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "Oil-on-canvas painting of a blue night sky with roiling energy. A fuzzy and bright yellow crescent moon shining at the top. Below the exploding yellow stars and radiating swirls of blue, a distant village sits quietly on the right. Connecting earth and sky is a flame-like cypress tree with curling and swaying branches on the left. A church spire rises as a beacon over rolling blue hills",
+    "style": "paintings",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a mixed media image with a photograph of a woman with long orange hair over a background that is a sketch of a city skyline",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a cartoon of a dog saying \"I see what you did there\"",
+    "style": "anime and cartoon",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A close-up high-contrast photo of Sydney Opera House sitting next to Eiffel tower, under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blue",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "the saying 'do unto others as they would do unto you' written on a white background",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A group of farm animals (cows, sheep, and pigs) made out of cheese and ham, on a wooden board. There is a dog in the background eyeing the board hungrily.",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a motorcycle parked in an ornate bank lobby with \"BUZZ\" written on its body",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A photograph of the inside of a subway train. There are frogs sitting on the seats. One of them is reading a newspaper. The window shows the river in the background.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a glass of orange juice next to an empty pitcher",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "the cover of a book called 'Backpropaganda' by I.C. Gradients",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a selfie of an old man with a white beard",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a kachina doll with feathers on its head and wearing a white dress and brown boots.",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a man with wild hair looking into a crystal ball",
+    "style": "concept-art",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photo of a Ming Dynasty vase on a leather topped table.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a smiling man with wavy brown hair and trimmed beard",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A photograph of a portrait of a statue of a pharaoh wearing steampunk glasses, white t-shirt and leather jacket.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A bowl of soup that looks like a monster knitted out of wool",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A high resolution photo of a large bowl of ramen. There are several origami boats in the ramen of different colors.",
+    "style": "real photo",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a basketball game between a team of four cats and a team of three dogs",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a harp with a carved eagle figure at the top",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "view of a giraffe and a zebra in the middle of a field",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "A black and white landscape photograph of a black tree",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a blue wooden pyramid on top of a red plastic box",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a wine bottle with a lit candle stuck in its spout",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an abstract oil painting in deep red and black with a thick patches of white",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a black baseball hat with a flame decal on it",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tornado with a house carried along at its top",
+    "style": "concept-art",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "A shiny VW van in front of a cityscape. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. High-contrast oil painting.",
+    "style": "paintings",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a store front that has the word ‘openai’ written on it.",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "an overhead view of a pickup truck with boxes in its flatbed",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a giraffe wearing a white bathing suit and carefully stepping to the edge of a diving board and preparing to dive",
+    "style": "others",
+    "feasibility": "no"
+  },
+  {
+    "prompt": "a wooden toy horse with a mane made of rope",
+    "style": "real photo",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a black towel with a cartoon of a dog on it",
+    "style": "others",
+    "feasibility": "yes"
+  },
+  {
+    "prompt": "a tennis court with tennis balls scattered all over it",
+    "style": "real photo",
+    "feasibility": "yes"
+  }
+]
